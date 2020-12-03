@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: "192168071.zippymydomain.com"
+    domain: " 192.168.0.71.nip.io"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
